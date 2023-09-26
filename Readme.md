@@ -1,4 +1,4 @@
-# <h1 align = "center"> University Event Management System🎓 </h1>
+# <h1 align = "center"> 🎓University Event Management System🎓 </h1>
 ___ 
 <p align="center">
 <a href="Java url">
