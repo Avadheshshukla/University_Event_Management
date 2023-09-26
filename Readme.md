@@ -37,7 +37,7 @@ ___
 - Spring Boot
 - Spring Web Initializer
 - Maven 
-- Spring Web Dependency  { Spring web, Lombok, Validation, H2 Databse, Spring JPA}
+- Spring Web Dependency  { Spring web, Lombok, Validation, H2 Databse, Spring JPA, Swagger, Hibernate}
 
 
 <!-- Model --->
