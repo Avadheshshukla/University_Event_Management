@@ -18,7 +18,7 @@ ___
 
 <!-- Project Description -->
 ## Overview 🪟
-<p align="center">This project, named "University Event Management System," is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allows  you to manage students and events, perform CRUD operations, and apply the specified validations. The application will use H2 as the database for simplicity and we have use validation as well  for Age shoul be in between 18 - 25yr and First letter of name shoul be capital.
+<p align="center">This project, named "University Event Management System," is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allows  you to manage students and events, perform CRUD operations, and apply the specified validations. The application will use H2 as the database for simplicity and we have use validation as well  for Age should be in between 18 - 25yr and First letter of name shoul be capital.
 </p>
 
 <!-- Table of Contents -->
